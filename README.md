@@ -25,7 +25,7 @@ Copy `Copy-to-clipboard.js` into your [Spicetify](https://github.com/khanhas/spi
 After putting the extension file into the correct folder, run the following command to install the extension:
 
 ```sh
-spicetify config extensions Copy-to-clipboard.js.js
+spicetify config extensions Copy-to-clipboard.js
 spicetify apply
 ```
 
@@ -34,7 +34,7 @@ spicetify apply
 To uninstall, run the following command:
 
 ```sh
-spicetify config extensions Copy-to-clipboard.js.js-
+spicetify config extensions Copy-to-clipboard.js-
 spicetify apply
 ```
 
